@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is code
 ============================================================================================================================
 
-Never stop building.
+I wanna become the very best. The best there ever was..
 --------------------
 
 Hey, I’m a digital artist and full-stack developer with a passion for creating beautiful, interactive experiences — whether on the web, in code, or through visual art. I love building things that live at the intersection of design and technology. When I’m not pushing pixels or writing code, I’m probably out exploring new places, cultures, and inspirations around the world. Always curious. Always creating. Let’s build something cool. ✨
